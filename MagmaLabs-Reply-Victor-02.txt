@@ -17,13 +17,24 @@ LINKEDIN ON FOUNDATION: Email-only. LinkedIn is Growth tier. For your ICP — CT
 VPs Engineering at US SaaS companies — that's not a nice-to-have. It's where a
 meaningful share of your replies come from.
 
-TOOL COSTS: You already carry Apollo and Sales Navigator. New additions: Clay
-($149/month), Smartlead or Instantly ($59-97/month), 10 sending domains ($150 one-time,
-~$150/year renewal). Total new monthly spend: $210-250/month + $150 upfront for domains.
+TOOL COSTS: You already carry Apollo and Sales Navigator. New additions on your side:
 
-The 10 domains are not optional — they are the deliverability infrastructure. We warm
-them in two batches of 5 across the first 4 weeks and rotate across your 4 sequences.
-This keeps your sending reputation clean and your emails out of spam.
+  Clay              $149-349/month   Enrichment engine. Every signal runs through
+                                     here before a single email goes out.
+  Smartlead         $59/month        Email sending platform. Inbox rotation across
+                                     all 15 mailboxes.
+  PremiumInbox      ~$75/month       Mailbox hosting and warmup for all 15 mailboxes.
+  Porkbun           $225 one-time    15 sending domains. ~$225/year renewal.
+
+  Total new monthly spend:   $283-483/month + $225 upfront for domains.
+
+Everything else — Trigify, RB2B, GetSales, Claude API, Attio CRM, Millionverifier,
+Taplio, Sendspark, n8n, Crunchbase, Fathom, Notion — is handled on our side,
+covered inside the retainer. You do not see those invoices.
+
+On the domains: 15 total. 10 go live across your 4 sequences from Day 1.
+5 held as backup — rotated in if any mailbox shows deliverability drop.
+Warmed in batches of 5 across weeks 1, 3, and 5. Full volume by Day 14.
 
 REFERENCES — this one I want to answer properly.
 
@@ -76,7 +87,27 @@ Included:
   - Weekly reporting: sequences live, signals fired, pipeline generated
 
 After 3 months: $3,000/month
-Ongoing optimisation, new sequences, account management.
+
+This is where the full operation lands:
+
+  - SDR retained and fully trained on the revenue engine — they will know
+    every signal, every sequence, every tool, and every ICP inside out.
+    Not a junior hire following a script. An operator who owns the machine.
+
+  - All tools, signals, and automations maintained and optimised.
+    New sequences added as your ICP evolves or new verticals open up.
+
+  - Full stack covered — every tool on our side stays live and updated.
+
+  - Weekly reporting continues. Pipeline numbers, signals fired, sequences
+    refined, what is working and what gets adjusted.
+
+One decision that sits with you and Mariana:
+
+Whether you want the SDR's time weighted toward pipeline generation —
+finding and qualifying the right conversations — or toward closing the
+opportunities the machine surfaces. Both are valid deployment models.
+We align on that before Month 4, not after.
 
 Exit clause: if qualified conversations are not tracking by Day 30, you walk.
 No invoice for Month 2. In writing.

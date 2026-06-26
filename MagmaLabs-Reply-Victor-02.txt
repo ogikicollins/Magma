@@ -18,8 +18,12 @@ VPs Engineering at US SaaS companies — that's not a nice-to-have. It's where a
 meaningful share of your replies come from.
 
 TOOL COSTS: You already carry Apollo and Sales Navigator. New additions: Clay
-($149/month), Smartlead or Instantly ($59-97/month), 2-3 sending domains (~$45/year).
-Total new spend: $210-290/month.
+($149/month), Smartlead or Instantly ($59-97/month), 10 sending domains ($150 one-time,
+~$150/year renewal). Total new monthly spend: $210-250/month + $150 upfront for domains.
+
+The 10 domains are not optional — they are the deliverability infrastructure. We warm
+them in two batches of 5 across the first 4 weeks and rotate across your 4 sequences.
+This keeps your sending reputation clean and your emails out of spam.
 
 REFERENCES — this one I want to answer properly.
 

@@ -1,0 +1,114 @@
+SUBJECT: The machine we're building for MagmaLabs
+TO: Victor | MagmaLabs
+FROM: Collins | SELLL.io
+
+---
+
+Victor,
+
+Here is exactly what powers the revenue system we're building for you.
+
+The architecture has four jobs: detect a buying signal, enrich the contact,
+fire the right sequence within hours, and manage the pipeline from first reply
+to signed contract. Every tool below has one job. Nothing overlaps.
+
+---
+
+// YOUR SIDE — what you own and pay for //
+
+You already carry the two heaviest tools:
+
+  LinkedIn Sales Navigator   Signal source and contact finding. Already owned.
+  Apollo                     Supplementary contact data. Already owned.
+
+New additions:
+
+  Clay                       The enrichment engine. Every signal runs through
+                             here before a single email goes out. $149-349/mo.
+
+  Smartlead                  Email sending platform. Manages inbox rotation
+                             across all 15 mailboxes. $59/mo.
+
+  PremiumInbox               Mailbox hosting and warmup for all 15 mailboxes.
+  Porkbun                    15 domains. $225 one-time. ~$225/year renewal.
+
+  Total new monthly spend:   ~$210-410/month + $225 upfront for domains.
+
+---
+
+// OUR SIDE — handled inside the $5,000 retainer //
+
+  Trigify                    Monitors 140K+ job boards, 250K daily news sources,
+                             and LinkedIn in real time. When a CTO at a Series A
+                             SaaS posts about scaling their team, Trigify fires.
+                             Your sequence goes out the same day.
+
+  RB2B Pro                   Identifies who visits magmalabs.io, matches them to
+                             LinkedIn profiles, and triggers a sequence. Your
+                             inbound traffic starts converting.
+
+  GetSales                   LinkedIn outreach. Lowest ban rate in the market.
+                             Runs connection requests and message sequences
+                             alongside your email campaigns.
+
+  Claude API                 Runs inside Clay. Writes personalised email and
+                             LinkedIn copy based on the specific signal that fired.
+                             Not templates. Signal-specific messaging every time.
+
+  Attio CRM                  Where every reply lands. Every deal tracked, every
+                             next action owned. Nothing leaks after the first
+                             conversation starts.
+
+  Millionverifier            Every contact verified before it enters Smartlead.
+                             Keeps bounce rate under 0.5%. Protects all 15
+                             mailboxes from spam flags.
+
+  Taplio                     Keeps the SDR's LinkedIn profile active with 3 posts
+                             per week before outreach goes live. When a connection
+                             request lands from an active profile, acceptance rates
+                             are significantly higher.
+
+  Sendspark                  Personalised 60-second video for Tier 1 accounts.
+                             CTOs at Series B companies. The pattern interrupt
+                             that cold text cannot match.
+
+  PhantomBuster              Pulls Sales Nav list exports into Clay. Data only,
+                             not outreach.
+
+  n8n + Make                 Automation backbone. Signal fires in Trigify or RB2B,
+                             n8n routes it to Clay for enrichment, Clay sends the
+                             enriched contact to Smartlead or GetSales. The SDR
+                             wakes up to a list of triggered prospects every morning.
+
+  Crunchbase                 Funding round detection. A Series A close is one of
+                             your highest-intent signals. We catch it within hours.
+
+  Fathom                     Every call recorded and transcribed automatically.
+                             Notes feed into Attio. The SDR stays focused on the
+                             conversation, not the notebook.
+
+  Notion                     Weekly reporting. Sequences live, signals fired,
+                             replies received, pipeline generated. One doc, every
+                             Friday.
+
+---
+
+// MAILBOX INFRASTRUCTURE — settled //
+
+  15 domains via Porkbun
+  15 mailboxes via PremiumInbox
+  10 active across 4 sequences | 5 on standby
+  Warmup in batches of 5 across weeks 1, 3, and 5.
+  Sequences go live at full volume by Day 14.
+
+---
+
+This is a machine that runs while your team sleeps. Signals fire overnight,
+sequences go out in the morning, replies land in Attio by afternoon.
+The SDR works the pipeline — not the spreadsheets.
+
+Ready to lock this in?
+
+Collins
+SELLL.io | Signal-Intelligent Revenue Engine
+cal.com/collins-ogiki-x4fokk/30min

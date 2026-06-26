@@ -87,6 +87,7 @@ DECISION MAKER: Carlos Rocha (CEO) — not yet engaged directly
 | June 2026 | Outbound | Rebuilt deck + follow-up email sent |
 | June 26, 2026 | Inbound | Victor confirmed intent: Foundation 3-month trial. 4 clarifying questions. |
 | June 26, 2026 | Outbound (draft) | Reply drafted — see MagmaLabs-Reply-Victor-01.txt |
+| June 26, 2026 | Outbound (draft) | Upgraded offer drafted — Growth pilot $5K/3mo then $3K/mo, SDR included, exit clause, rebrand + case study reference. See MagmaLabs-Reply-Victor-02.txt |
 
 ---
 
@@ -94,7 +95,7 @@ DECISION MAKER: Carlos Rocha (CEO) — not yet engaged directly
 
 - [x] Review inbound email from MagmaLabs
 - [x] Draft reply to Victor's 4 questions
-- [ ] Collins reviews + sends reply (MagmaLabs-Reply-Victor-01.txt)
+- [ ] Collins reviews + sends reply (MagmaLabs-Reply-Victor-02.txt — supersedes v01)
 - [ ] Victor books 30-min call
 - [ ] Send agreement same day as call
 - [ ] Determine: does Carlos need to sign or can Victor execute?

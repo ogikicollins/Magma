@@ -1,0 +1,88 @@
+SUBJECT: Re: re the deck and audit — answers + one change to the offer
+TO: Victor | MagmaLabs
+FROM: Collins | SELLL.io
+
+---
+
+Victor,
+
+Four questions. Straight answers first, then something worth reading at the end.
+
+MEETINGS ON FOUNDATION: Month 1 is a build phase — 0-2 early replies by design, not
+volume. Month 2 at full volume: 3-5 qualified conversations/month. Month 3 optimised:
+4-6/month. The 30-day guarantee was positioned around Growth. Committing to it on
+Foundation would mean rushing the warmup — I won't do that.
+
+LINKEDIN ON FOUNDATION: Email-only. LinkedIn is Growth tier. For your ICP — CTOs and
+VPs Engineering at US SaaS companies — that's not a nice-to-have. It's where a
+meaningful share of your replies come from.
+
+TOOL COSTS: You already carry Apollo and Sales Navigator. New additions: Clay
+($149/month), Smartlead or Instantly ($59-97/month), 2-3 sending domains (~$45/year).
+Total new spend: $210-290/month.
+
+REFERENCES — this one I want to answer properly.
+
+SELLL.io is coming off a rebrand. We operated as DealFlow until recently. The history
+is there, the brand is new, and you are one of our first engagements in the dev agency
+space under the SELLL name. I am not going to put a reference in front of you that I
+cannot stand behind.
+
+What I can give you instead is this:
+
+A 35-person dev shop — custom SaaS and AI integrations, $38K average deal, 2-4 month
+sales cycle, US and EU market. Near-identical profile to MagmaLabs. They ran this
+playbook for 5 months:
+
+  Qualified pipeline:  $220K -> $587K  (+167%)
+  SQLs:                4-6/month -> 14-18/month  (+200%)
+  Close rate:          18% -> 27%
+
+The signals that drove it: funding rounds, CTO and Head of Product hires, SaaS teams
+scaling 15%+ in 90 days, tech stack transitions. Those are the same signals we would
+wire up for MagmaLabs on day one. Full case study:
+https://blog.crosslike.club/how-a-software-development-agency-increased-pipeline-by-167-in-5-months-case-study/
+
+That is not a client reference. It is a methodology proof. The difference is I can
+show you the numbers, not just a name.
+
+---
+
+Now — here is the change I want to make to the offer.
+
+I am going to pull you off Foundation.
+
+At your deal size ($20K+ engagements), Foundation's contact volume and email-only
+motion will get you results, but slowly. Your ICP lives on LinkedIn. You have two
+distinct buyer profiles — staff augmentation and AI services — that need separate
+sequences running simultaneously. Foundation does not do that cleanly.
+
+// MAGMALABS GROWTH PILOT — $5,000/month for 3 months //
+
+Standard rate is $7,500/month. This is a $2,500/month reduction for the pilot window.
+
+Included:
+
+  - Signal layer built for both ICPs (staff aug + AI services as separate sequences)
+  - LinkedIn outreach wired to your ICP trigger events
+  - 4 active sequences live within 14 days
+  - Daily ICP alerts: funding events, CTO hires, team scaling signals fired overnight
+  - Inbound conversion layer on magmalabs.io
+  - A dedicated SDR working the MagmaLabs account (as discussed on the call)
+  - Weekly reporting: sequences live, signals fired, pipeline generated
+
+After 3 months: $3,000/month
+Ongoing optimisation, new sequences, account management.
+
+Exit clause: if qualified conversations are not tracking by Day 30, you walk.
+No invoice for Month 2. In writing.
+
+---
+
+One question before you book the call:
+
+What would need to be true for you to say yes this week?
+
+Collins
+SELLL.io | Signal-Intelligent Revenue Engine
+cal.com/collins-ogiki-x4fokk/30min

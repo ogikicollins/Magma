@@ -8,9 +8,9 @@
 ## STATUS
 
 ```
-STAGE:         Post-Disco → Awaiting response
-LAST ACTION:   Follow-up email sent to Victor + Mariana
-NEXT ACTION:   Review inbound email from MagmaLabs
+STAGE:         Proposal stage — Victor confirmed intent to move forward
+LAST ACTION:   Reply drafted to Victor's 4 clarifying questions
+NEXT ACTION:   Send reply → book 30-min call → send agreement same day
 DECISION MAKER: Carlos Rocha (CEO) — not yet engaged directly
 ```
 
@@ -51,7 +51,31 @@ DECISION MAKER: Carlos Rocha (CEO) — not yet engaged directly
 
 ## INBOUND EMAIL FROM MAGMA
 
-> Paste email here
+> Hi Collins, thanks for the deck and the audit. It's really well put together,
+> and the diagnosis lines up with how we see it internally.
+>
+> We'd like to move forward with a 3-month trial on the Foundation plan.
+> Before we kick off, a few things to confirm:
+>
+> 1. What should we expect from Foundation specifically in terms of qualified
+>    meetings per month? The Growth tier was presented as 8 to 12 qualified
+>    meetings, and I want to understand what Foundation delivers, and whether
+>    the 30-day meeting guarantee applies to it as well.
+>
+> 2. Inclusions: The proposal and the pricing slide differ on Foundation.
+>    Does it include LinkedIn outreach in addition to email, or is it email-only?
+>
+> 3. References: Could you share one or two references from clients similar
+>    to us, service firms or dev shops selling into the US tech space?
+>
+> 4. Tools and cost: Which tools does the setup require and what do they
+>    cost on our side? We already use Apollo and Sales Navigator, so I'm
+>    specifically curious about Clay.
+>
+> Once those are clear, I'm happy to grab the 30 minutes to walk through
+> the build plan.
+>
+> Best, Victor
 
 ---
 
@@ -61,16 +85,19 @@ DECISION MAKER: Carlos Rocha (CEO) — not yet engaged directly
 |---|---|---|
 | June 2026 | Outbound | Disco call held — Victor + Mariana |
 | June 2026 | Outbound | Rebuilt deck + follow-up email sent |
-| June 26, 2026 | Inbound | Email received — see above |
+| June 26, 2026 | Inbound | Victor confirmed intent: Foundation 3-month trial. 4 clarifying questions. |
+| June 26, 2026 | Outbound (draft) | Reply drafted — see MagmaLabs-Reply-Victor-01.txt |
 
 ---
 
 ## NEXT STEPS
 
-- [ ] Review inbound email from MagmaLabs
-- [ ] Draft reply
-- [ ] Determine: route through Victor/Mariana or escalate to Carlos
-- [ ] If moving forward: send agreement same day
+- [x] Review inbound email from MagmaLabs
+- [x] Draft reply to Victor's 4 questions
+- [ ] Collins reviews + sends reply (MagmaLabs-Reply-Victor-01.txt)
+- [ ] Victor books 30-min call
+- [ ] Send agreement same day as call
+- [ ] Determine: does Carlos need to sign or can Victor execute?
 
 ---
 

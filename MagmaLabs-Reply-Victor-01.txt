@@ -1,0 +1,148 @@
+SUBJECT: Re: re the deck and audit
+TO: Victor | MagmaLabs
+FROM: Collins | SELLL.io
+
+---
+
+Victor,
+
+Thanks for the detailed questions — these are exactly the right things to
+clarify before we kick off. Let me go through each one directly.
+
+---
+
+1. FOUNDATION — QUALIFIED MEETINGS PER MONTH
+
+Foundation runs at 200 contacts per month across 2 signal-triggered
+sequences, email only.
+
+Realistic output by phase:
+
+  Month 1 — Build + Warmup
+  Sequences written, domains warmed, lists built.
+  This is infrastructure month. Expect 0–2 early replies,
+  not meetings. This is intentional — we don't send at volume
+  before deliverability is confirmed.
+
+  Month 2 — Full Volume
+  200 contacts/month live. At a 3–5% signal-triggered reply rate:
+  6–10 replies per month. Roughly half of those convert to
+  a qualified conversation: 3–5/month.
+
+  Month 3 — Optimised
+  Sequences tightened based on Month 2 reply data.
+  Qualified meetings: 4–6/month as the system compounds.
+
+On the 30-day meeting guarantee — I want to be straight with you.
+That framing was positioned around the Growth plan, which runs at
+full volume from Day 14 with a phone layer on top.
+
+Foundation's Month 1 is intentionally a build phase.
+If I guaranteed a qualified meeting inside 30 days on Foundation,
+I'd be setting up a metric that conflicts with doing the warmup right.
+
+What I can commit to: by the end of Month 2, you will have
+qualified conversations running. If we are not tracking toward that
+by Day 45, we review the build together — no questions asked.
+
+If the 30-day first meeting is a hard requirement,
+Growth is the plan that can actually deliver it.
+Happy to walk through that on the call.
+
+---
+
+2. LINKEDIN — WHAT'S INCLUDED IN FOUNDATION
+
+Foundation is email only.
+
+LinkedIn outreach is a Growth-tier channel.
+The reason it's tiered that way: LinkedIn sequencing requires
+a different setup (profile optimisation, connection cadence,
+message approval workflow) and adds meaningful build time.
+Layering it onto Foundation would compromise the email execution.
+
+For MagmaLabs specifically, this matters:
+Your ICP — CTOs and VPs Engineering at US SaaS companies —
+lives on LinkedIn. The Growth plan's LinkedIn layer is not optional
+for your vertical, it's where a meaningful portion of your replies
+will come from.
+
+That said, if you want to start on Foundation to validate the email
+motion first, that is a reasonable approach. Just want you to have
+the full picture.
+
+---
+
+3. REFERENCES
+
+I'll be straight with you here rather than send you names
+that aren't a clean match.
+
+SELLL is in its early client phase. We are intentionally selective
+about who we take on — your engagement is one of the first
+at this scale in the dev agency / nearshore space.
+
+The most direct proof of what we build is already in your hands:
+the audit you received, the deck built on your specific GTM gaps,
+and the diagnosis that lined up with how you see it internally
+(your words, not mine).
+
+What I can offer instead of a reference call:
+
+  — A 30-day pilot structure. You are not committed beyond
+    Month 1 if qualified conversations are not tracking.
+    The agreement reflects that.
+
+  — A reference from the outbound agency space (not dev)
+    if you want to validate our process and communication style
+    with a current client. I can arrange that.
+
+If a dev shop reference in the US tech market is a hard requirement
+before you move forward, I'd rather tell you we don't have one yet
+than manufacture one. What I'd say is: the audit we did on your
+business is a better indicator of what you'll get than a reference
+call from a different vertical.
+
+---
+
+4. TOOLS + COSTS ON YOUR SIDE
+
+Good news: you are already carrying the two most expensive tools.
+
+  Apollo          — You have it. We use it as a data source.
+  Sales Navigator — You have it. Feeds the signal layer.
+
+What Foundation adds:
+
+  Clay            — $149/month (Starter tier)
+                    This is where list building, enrichment,
+                    and signal monitoring happen.
+                    At 200 contacts/month, Starter is sufficient.
+
+  Sending tool    — $59–97/month
+                    We use Smartlead ($59) or Instantly ($97).
+                    Included in onboarding recommendation.
+                    Your call which to run.
+
+  Sending domains — 2–3 domains at ~$15 each
+                    One-time ~$30–45. Annual renewal ~$45.
+                    We set these up in kickoff.
+
+  Total new tool cost: approximately $210–$290/month
+  on top of the SELLL Foundation fee.
+
+Apollo and Sales Navigator you already carry — no change there.
+
+---
+
+Those are the honest answers to all four.
+
+The 30-minute call is the right next step — I want to walk you through
+the exact build plan for MagmaLabs specifically: which signals we'd
+monitor, which sequences fire first, and what Month 2 looks like on paper.
+
+Book here whenever you're ready:
+https://cal.com/collins-collins-h1q7yn/30min
+
+Collins
+SELLL.io | Signal-Intelligent Revenue Engine
